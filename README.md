@@ -31,10 +31,5 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ## Data Model
 ![Data model image](data_model.jpeg)
 
-## Scripts for project
-1. [Extract Python File](mage-files/extract.py)
-2. [Load Python File](mage-files/load.py)
-3. [Transform Python File](mage-files/transform.py)
-
 
 
